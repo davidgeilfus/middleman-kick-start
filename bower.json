@@ -1,0 +1,12 @@
+{
+  "name": "middleman-kick-start",
+  "authors": [
+    "David Geilfus <davidgeilfus@gmail.com>"
+  ],
+  "devDependencies": {
+    "classlist": "^2014.12.13",
+    "include-media": "^1.4.8",
+    "modernizr": "https://modernizr.com/download/?-eventlistener-queryselector-setclasses.tar",
+    "normalize-css": "^4.2.0"
+  }
+}
